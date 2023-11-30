@@ -1,2 +1,2 @@
 this is new file..
-testing of branch command..
+testing of branch command..[conflict]
